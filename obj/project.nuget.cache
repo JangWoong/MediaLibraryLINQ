@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PE7OeBlyAfh74dq9FmGgmGZkA58tNdQb0oOvF7pAdyTNL3jVD+7riXb9L6vZVUgRbun/nb6Nl8HgtGsjx/e9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyunk\\source\\WCTC\\MediaLibrary\\MediaLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyunk\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
